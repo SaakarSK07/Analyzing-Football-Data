@@ -6,7 +6,7 @@ Key Components:
 
 - Data Analysis:
 
-- Analyzed player performance metrics for the 2018-2019 season.
+-- Analyzed player performance metrics for the 2018-2019 season.
 - Utilized various statistical methods and visualization tools to identify trends and patterns in player data.
 
 - Search Engine Development:
